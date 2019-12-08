@@ -1,8 +1,6 @@
-import React from "react"
-import { css } from "@emotion/core"
-import { useStaticQuery, Link, graphql } from "gatsby"
+import React from "react";
+import { useStaticQuery, Link, graphql } from "gatsby";
 
-import { rhythm } from "../utils/typography"
 export default ({ children }) => {
   const data = useStaticQuery(
     graphql`
@@ -10,40 +8,27 @@ export default ({ children }) => {
         site {
           siteMetadata {
             title
+            author
           }
         }
       }
     `
-  )
+  );
+
   return (
-    <div
-      css={css`
-        margin: 0 auto;
-        max-width: 700px;
-        padding: ${rhythm(2)};
-        padding-top: ${rhythm(1.5)};
-      `}
-    >
-      <Link to={`/`}>
-        <h3
-          css={css`
-            margin-bottom: ${rhythm(2)};
-            display: inline-block;
-            font-style: normal;
-          `}
-        >
-          {data.site.siteMetadata.title}
-        </h3>
-      </Link>
-      <Link
-        to={`/about/`}
-        css={css`
-          float: right;
-        `}
-      >
-        About
-      </Link>
-      {children}
+    <div class='page'>
+      <div class='section header'>
+        <Link to={`/`}>{data.site.siteMetadata.title}</Link>
+      </div>
+      <div class='section menu'>
+        <Link to={`/about/`}>About</Link>
+      </div>
+      <div class='section content'>
+        {children}
+      </div>
+      <div class='section footer'>
+        Copyright &copy; 2019, {data.site.siteMetadata.author}. All rights reserved.
+      </div>
     </div>
   )
-}
+};

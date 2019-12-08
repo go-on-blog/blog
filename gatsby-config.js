@@ -13,12 +13,15 @@ module.exports = {
             },
         },
         `gatsby-transformer-remark`,
-        `gatsby-plugin-emotion`,
         {
-            resolve: `gatsby-plugin-typography`,
+            resolve: `gatsby-plugin-google-fonts`,
             options: {
-                pathToConfigModule: `src/utils/typography`,
-            },
+                fonts: [
+                  `Yanone Kaffeesatz\:500`,
+                  `Nanum Gothic\:400,700`
+                ],
+                display: 'swap'
+            }
         },
         {
             resolve: `gatsby-plugin-manifest`,
@@ -36,5 +39,5 @@ module.exports = {
         },
         `gatsby-plugin-offline`,
         `gatsby-plugin-react-helmet`
-    ],
-}
+    ]
+};
