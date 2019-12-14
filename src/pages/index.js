@@ -9,11 +9,11 @@ export default ({ data }) => {
         <h1>Scattered notes on Agile</h1>
         <h4>{data.allMarkdownRemark.totalCount} posts</h4>
         {data.allMarkdownRemark.edges.map(({ node }) => (
-          <div key={node.id}>
+          <div class='log' key={node.id}>
             <Link to={node.fields.slug}>
               <h3>
                 {node.frontmatter.title}{" "}<br />
-                <span>{node.frontmatter.date} </span>
+                <span>{node.frontmatter.date}</span>
               </h3>
               <p>{node.excerpt}</p>
             </Link>

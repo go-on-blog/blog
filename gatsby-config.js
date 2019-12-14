@@ -18,7 +18,7 @@ module.exports = {
             options: {
                 fonts: [
                   `Yanone Kaffeesatz\:500`,
-                  `Nanum Gothic\:400,700`
+                  `Lato\:400,400i,700`
                 ],
                 display: 'swap'
             }
