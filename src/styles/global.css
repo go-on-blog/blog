@@ -75,7 +75,16 @@ blockquote > :last-child { margin-bottom: 0 !important; }
   height: 70px;
 }
 
+/* Post.............................................................. */
+
+.post h3 {
+  color: #c0c0c0;
+  font-weight: 500;
+  font-size: 0.9rem;
+}
+
 /* Log............................................................... */
+
 .log h3 {
   color: #606060;
   font-family: 'Yanone Kaffeesatz', sans-serif;
