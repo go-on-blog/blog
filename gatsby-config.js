@@ -12,7 +12,13 @@ module.exports = {
                 path: `${__dirname}/src/pages/`,
             },
         },
-        `gatsby-transformer-remark`,
+        {
+            resolve: `gatsby-transformer-remark`,
+            options: {
+                commonmark: true,
+                excerpt_separator: `<!-- end -->`
+            }
+        },
         {
             resolve: `gatsby-plugin-google-fonts`,
             options: {

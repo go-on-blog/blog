@@ -150,7 +150,7 @@ It is also a [book](https://gojko.net/books/specification-by-example/) published
 > 
 > [General Principles of Software Validation; Final Guidance for Industry and FDA Staff](https://www.fda.gov/media/73141/download). 2002.
 
-### Velocity
+### Velocity <a name="velocity"></a>
 
 > Velocity is the sum of the estimates of delivered (i.e., accepted) features per iteration.
 > 
