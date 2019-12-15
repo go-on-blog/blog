@@ -2,7 +2,7 @@
 title: "Software Engineering Definitions"
 date: "2019-12-08"
 ---
-Reference definitions of software engineering terms. The definitions either come from standards bodies or from people who are authorities in their field.
+Reference definitions of software engineering terms. The definitions either come from standards bodies or from people who are authorities in their field.<!-- end -->
 
 ### Acceptance Criteria
 
@@ -149,6 +149,12 @@ It is also a [book](https://gojko.net/books/specification-by-example/) published
 > Confirmation by examination and provision of objective evidence that software specifications conform to user needs and intended uses, and that the particular requirements implemented through software can be consistently fulfilled.
 > 
 > [General Principles of Software Validation; Final Guidance for Industry and FDA Staff](https://www.fda.gov/media/73141/download). 2002.
+
+### Velocity
+
+> Velocity is the sum of the estimates of delivered (i.e., accepted) features per iteration.
+> 
+> [Measuring the Velocity of your Agile Scrum Team](https://resources.collab.net/agile-101/agile-scrum-velocity)
 
 ### Verification
 
