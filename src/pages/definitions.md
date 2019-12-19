@@ -51,7 +51,7 @@ Reference definitions of software engineering terms. The definitions either come
 
 ### Leader
 
-> Anyone who's in on a decision that affects the whole group is a *leader*.
+> Anyone who’s in on a decision that affects the whole group is a *leader*.
 > 
 > Mezick, Daniel. [Scaling Employee Engagement](https://www.youtube.com/watch?v=NTNPdYJNces&t=33m20s). 2019.
 
@@ -71,7 +71,17 @@ Reference definitions of software engineering terms. The definitions either come
 
 > *Managing* is dealing with uncertainty.
 > 
-> Martin, Robert C. [The Craftsman's Oath](https://www.youtube.com/watch?v=17vTLSkXTOo&t=49m24s). SCLConf October 2018.
+> Martin, Robert C. [The Craftsman’s Oath](https://www.youtube.com/watch?v=17vTLSkXTOo&t=49m24s). SCLConf October 2018.
+
+### Prototype
+
+> Prove to customer/user it’s possible. Estimate effort (where necessary).
+> 
+> [Zach Bonaker](https://twitter.com/zachbonaker/status/1207042495990751232)
+> 
+>> Prototype has the awful potential to become release 1..n of a badly architected product (though it shouldn’t).
+>> 
+>> Alistair Cockburn. [Twitter](https://twitter.com/TotherAlistair/status/1207303748491644928)
 
 ### Refactoring
 
@@ -121,9 +131,19 @@ The term [Specification By Example](https://martinfowler.com/bliki/Specification
 
 It is also a [book](https://gojko.net/books/specification-by-example/) published by Gojko Adzic in 2011.
 
+### Spike
+
+> Prove to team it’s possible. Timebox effort.
+> 
+> Zach Bonaker. [Twitter](https://twitter.com/zachbonaker/status/1207042495990751232)
+> 
+>> Spike should never have the potential to evolve into the final product.
+>> 
+>> Alistair Cockburn. [Twitter](https://twitter.com/TotherAlistair/status/1207303748491644928)
+
 ### Three amigos
 
-> I suggest you read George Dinwiddie's [blog on the 3 amigos](http://blog.gdinwiddie.com/tag/three-amigos/). He is the originator of this term.
+> I suggest you read George Dinwiddie’s [blog on the 3 amigos](http://blog.gdinwiddie.com/tag/three-amigos/). He is the originator of this term.
 
 ### Unit Test
 
