@@ -4,6 +4,8 @@
   box-sizing: border-box;
 }
 
+/* Responsive design fluid pattern................................... */
+
 .page {
   display: flex;
   flex-wrap: wrap;
@@ -30,6 +32,8 @@
   background-color: #ffffff;
   padding: 16px;
 }
+
+/* Layout............................................................ */
 
 .content h1 {
   font-family: 'Yanone Kaffeesatz', sans-serif;
@@ -77,10 +81,24 @@ blockquote > :last-child { margin-bottom: 0 !important; }
 
 /* Post.............................................................. */
 
-.post h3 {
+.post div.release-date {
   color: #c0c0c0;
-  font-weight: 500;
   font-size: 0.9rem;
+  margin-bottom: 1rem;
+}
+
+.post div.text > p:first-child {
+  color: #606060;
+  font-size: 1.2rem;
+  font-style: italic;
+  width: 38em;
+}
+
+.post h3 {
+  color: #606060;
+  font-family: 'Yanone Kaffeesatz', sans-serif;
+  font-size: 1.6rem;
+  font-weight: normal;
 }
 
 /* Log............................................................... */
