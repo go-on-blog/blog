@@ -4,6 +4,8 @@ date: "2019-12-15"
 ---
 Is it a good idea to re-estimate stories? When should we re-estimate and when should we avoid to do so? And what is the consequence of re-estimating on the velocity’s consistency and our ability to make reliable projections?<!-- end -->
 
+### What is the problem?
+
 Let’s say we are in a [SAFe](https://www.scaledagileframework.com/program-increment/) context and a team committed to deliver the following stories for a particular sprint at the [PI Planning](https://www.scaledagileframework.com/PI-planning/):
 
     2 stories of 8 pt
@@ -35,15 +37,15 @@ But what about re-estimating a story when the scope did not change? Would it be 
 
 *It depends on when the new estimation is done.*
 
-**If the new estimate happens before the planning, there’s nothing wrong with it.** But with relative estimates, it may result in distortion between re-estimated items and the unchanged ones. Then the team would rather re-estimate all of the product backlog.
+**If the new estimate happens before the planning, there’s nothing wrong with it.** But with relative estimates, it may result in distortion between re-estimated items and the unchanged ones. So the team would rather re-estimate all of the product backlog.
 
-In contrast, **I would advise against re-estimating after the planning**. It’s like changing the playing rules after the game has started. I find the analogy proposed by Timothy Baffa very instructive:
+In contrast, **I would advise against re-estimating after the planning**. It would be like changing the playing rules after the game has started. I find the analogy proposed by Timothy Baffa very instructive:
 
 > [...] I would be a dead-eye archer if I was allowed to move the target to where I shot the arrow every time.
 > 
 > [Re-estimate?](https://www.scrum.org/forum/scrum-forum/32814/re-estimate). Scrum Forum. 2019.
 
-A team might be tempted to justify that it could not complete a story by increasing its story points. Of course, that would be some kind of denial and would go against transparency. But to be fair, we have to admit that if teams are being judged based on the estimations of the items they complete, this measurement may lead them to that poor behavior. 
+A team might be tempted to justify that it could not complete a story by increasing its story points. Of course, that would be some kind of denial and would go against transparency. But to be fair, we have to admit that if teams are being judged based on the estimations of the items they complete, this measurement may lead to that poor behavior. 
 
 How can the team improve its ability to estimate if it is allowed to adjust its estimates after the planning?
 
@@ -58,6 +60,10 @@ Mike Cohn gives a funny example of these adjustments:
 > — Mike Cohn. [Why Agile Teams Put So Much Emphasis on Being Done Each Iteration](https://www.mountaingoatsoftware.com/blog/why-agile-teams-put-so-much-emphasis-on-being-done-each-iteration). January 29, 2019.
 
 ### What planning are we talking about when it comes to SAFe?
+
+When we say "re-estimating after the planning", are we talking about the sprint planning or the PI planning?
+
+### How can I plan if I don’t re-estimate?
 
 ### What is the adverse effect of re-estimating?
 
