@@ -6,7 +6,8 @@ A few days ago, I was participating in an HR workshop and we were designing OKRs
 
 I remembered one of my best friends advised me to watch this video:
 
-[Si ceux qui consomment n’osent pas le dire, comment savoir ?](https://www.youtube.com/embed/VI4_pmGLFZk/?start=183) (**If those using cannabis don’t dare to say it, how might we know?**). 
+[Si ceux qui consomment n’osent pas le dire, comment savoir ?](https://www.youtube.com/embed/VI4_pmGLFZk/?start=183)  
+(**If those using cannabis don’t dare to say it, how might we know?**). 
 
 *Chat Sceptique* describes a smart method allowing to measure with statistics behaviors we hesitate to disclose.
 
