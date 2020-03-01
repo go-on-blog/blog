@@ -1,5 +1,5 @@
 ---
-title: "Objectif flou"
+title: "Représenter l’essence du développement Agile"
 date: "2020-02-23"
 ---
 Est-ce que, comme moi, vous en avez assez de voir des Jocondes et des trottinettes pour vous expliquer l’Agilité ? Oui mais alors, quelle image nous aiderait mieux à saisir l’essence de cette approche du développement logiciel ?<!-- end -->
@@ -18,7 +18,7 @@ Et il ajoute :
 > 
 > [L’affaire Caravage](https://www.arte.tv/fr/videos/082229-000-A/l-affaire-caravage/), (timecode 0:50:47:0).
 
-Cette phrase tourne dans ma tête: « Réfléchir à sa composition en même temps qu’on réalise une œuvre. » Elle traduit bien le fait de ne pas savoir exactement où l’on va arriver.
+Cette phrase tourne dans ma tête: « Réfléchir à sa composition en même temps qu’on réalise une œuvre. » Elle traduit bien le fait de ne pas savoir exactement où l’on va.
 
 L’analogie avec le développement Agile (ou Lean) m’apparaît alors : la conception (dans notre jargon, on parlerait de *spécification*) change pendant la réalisation. N’est-ce pas ce qui nous arrive constamment dans le monde du logiciel ? Nous créons un produit dont la définition évolue, s’affine, au fur et à mesure qu’on le voit prendre forme.
 
