@@ -10,7 +10,7 @@ Un dimanche après-midi, je regardais sur [Arte](https://www.arte.tv/fr/videos/0
 
 C’est l’histoire d’un tableau (Judith et Holopherne), retrouvé en 2014 dans un grenier près de Toulouse et attribué à Michelangelo Merisi, dit le Caravage (1571-1610). Mais, aussi passionnante que soit cette enquête, c’est une simple remarque prononcée par Claudio Falcucci, un scientifique italien réputé pour ses analyse des tableaux du Caravage, qui a retenu mon attention. Il montre, sur une image aux rayons X, la ligne qui dessinait l’épaule de la vieille servante dans une première version du tableau. Cette ligne a été recouverte par le voile de Judith dans l’œuvre finale. Et c’est la preuve qu’il ne s’agit pas d’une copie. Un copiste n’aurait pas fait un tel repentir[^1] : il aurait su exactement quoi reproduire puisqu’il l’avait sous les yeux. 
 
-![Radiographie de Judith et Holopherne](/)
+![Radiographie de Judith et Holopherne](../images/judith-and-holophernes-x-ray.png)
 
 Et il ajoute :
 
