@@ -10,6 +10,14 @@ The Scrum Guide currently sets the size of the Development Team from three to ni
 >
 > [Scrum : The Art of Doing Twice the Work in Half the Time](https://www.scruminc.com/new-scrum-the-book/), page 46. 2014.
 
+### Scrum@Scale
+
+The [Scrum@Scale guide](https://scrumatscale.scruminc.com/scrum-at-scale-guide-online/#the-scrum-of-scrums) refers to another study to set the optimal number of teams in a Scrum of Scrums (4 or 5):
+
+> Harvard research has determined that optimal team size is 4.6 people (on average) [...].
+> 
+> J. Richard Hackman. Leading Teams: Setting the Stage for Great Performances. Harvard Business Review Press. 2002.
+
 ### The Magical Number Seven
 
 We often refer to the magical number *seven*. As far as I know, it originates from an old paper from George Miller (Harvard University), read as an Invited Address before the Eastern Psychological Association inPhiladelphia on April 15, 1955. The exact title is:
