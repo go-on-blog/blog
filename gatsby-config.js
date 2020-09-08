@@ -43,7 +43,7 @@ module.exports = {
             options: {
                 fonts: [
                   `Yanone Kaffeesatz\:500`,
-                  `Lato\:400,400i,700`
+                  `IBM Plex Mono\:400,400i,500`
                 ],
                 display: 'swap'
             }

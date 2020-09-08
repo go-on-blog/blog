@@ -9,7 +9,7 @@
 .page {
   display: flex;
   flex-wrap: wrap;
-  font-family: 'Lato', sans-serif;
+  font-family: 'IBM Plex Mono', monospace;
 }
 
 .section {
@@ -116,7 +116,7 @@ blockquote > :last-child { margin-bottom: 0 !important; }
 }
 
 .log p {
-  width: 28rem;
+  width: 32rem;
 }
 
 .log a:focus,
@@ -127,7 +127,6 @@ blockquote > :last-child { margin-bottom: 0 !important; }
 /* Links............................................................. */
 
 a {
-  font-weight: 700;
   outline: none;
   text-decoration: none;
   padding: 2px 1px 0;
