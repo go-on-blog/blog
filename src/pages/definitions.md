@@ -19,6 +19,12 @@ Reference definitions of software engineering terms. The definitions either come
 >
 > [AAMI TIR45, section 3.2][TIR45]
 
+### Cognitive bias
+
+> A systematic pattern of deviation from norm or rationality in judgment.
+>
+> Martie Haselton, Daniel Nettle, Paul W. Andrews (2005). « The evolution of cognitive bias ». In  [The Handbook of Evolutionary Psychology](http://www.sscnet.ucla.edu/comm/haselton/papers/downloads/handbookevpsych.pdf). John Wiley & Sons Inc. pp. 724–746.
+
 ### Continuous Delivery
 
 > Continuous Delivery is a set of capabilities that enable us to get changes of all kinds — features, configuration changes, bug fixes, experiments — into production or into the hands of users *safely*, *quickly*, and *sustainably*.
