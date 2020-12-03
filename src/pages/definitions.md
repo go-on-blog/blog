@@ -89,6 +89,16 @@ Reference definitions of software engineering terms. The definitions either come
 >> 
 >> Alistair Cockburn. [Twitter](https://twitter.com/TotherAlistair/status/1207303748491644928)
 
+### Reactance
+
+> Mécanisme de défense psychologique qui se met en place quand une personne se sent forcée dans les choix qu’elle veut pouvoir faire librement.
+> 
+> [Débunkage & entretien épistémique](https://www.youtube.com/watch?v=99InBSdGjO0)
+
+> Reactance occurs when a person feels that someone or something is taking away their choices or limiting the range of alternatives.
+> 
+> [Wikipedia definition](https://en.wikipedia.org/wiki/Reactance_(psychology)) (accessed December 3rd 2020).
+
 ### Refactoring
 
 > *Refactoring* is lots of small changes, none of which change 
