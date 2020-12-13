@@ -14,7 +14,7 @@ But I can’t totally discredit the stick either. My intuition tells me to go be
 
 Watching an interesting documentary on [Arte](https://www.arte.tv/) (a european television) about George Orwell and Aldous Huxley, I found a very good illustration of this dilemma. Huxley and Orwell had a very different vision of the future. And even if it’s a bit oversimplified, to me Orwell’s Nineteen Eighty-Four represents the stick while Huxley’s Brave New World represents the carrot.
 
-`video: https://www.arte.tv/player/v5/index.php?json_url=https%3A%2F%2Fapi.arte.tv%2Fapi%2Fplayer%2Fv2%2Fconfig%2Ffr%2F074580-000-A&lang=fr&autoplay=true&mute=0`
+`video: https://www.arte.tv/player/v5/embed.php?json_url=https%3A%2F%2Fapi.arte.tv%2Fapi%2Fplayer%2Fv2%2Fconfig%2Ffr%2F074580-000-A&lang=fr&width=100%&height=100%&autoplay=true&mute=0`
 
 <!-- 
  « ils sont conditionnés de telle sorte que pratiquement ils ne peut s’empêcher de se conduire comme ils le doivent »
