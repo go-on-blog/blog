@@ -23,7 +23,7 @@ It reminded me an excerpt from a book I was reading:
 >
 > Jocko Willink, Leif Babin. Extreme Ownership. St. Martin's Publishing Group. 2017.
 
-Moreover, to avoid such misbehaviors, what should be the right attitude? I was like a father with his children, thinking about the best education strategy — the carrot and the stick common alternative was coming to my mind. What’s best? And then, the next question was: is the strategy I use with my children appropriate for teams of adult people?
+Moreover, to avoid such misbehaviors, what should be the right attitude? I was like a father with his children, thinking about the best education strategy — [the carrot and the stick](/the-carrot-and-the-stick/) common alternative was coming to my mind. What’s best? And then, the next question was: is the strategy I use with my children appropriate for teams of adult people?
 
 A few days ago, I was having a discussion with my daughters about their teachers. They often talk about teachers that are not being respected by their students. So I asked them: « to gain respect, what strategy do you consider works best? »
 
