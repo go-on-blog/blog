@@ -12,9 +12,7 @@ Therefore, I often feel guilty for using the stick strategy when the mainstream 
 
 But I can’t totally discredit the stick either. My intuition tells me to go beyond this simplistic view.
 
-Watching an interesting documentary on [Arte](https://www.arte.tv/) (a european television) about George Orwell and Aldous Huxley, I found a very good illustration of this dilemma. Huxley and Orwell had a very different vision of the future. And even if it’s a bit oversimplified, to me Orwell’s *Nineteen Eighty-Four* represents the stick while Huxley’s *Brave New World* represents the carrot.
-
-`video: https://api.arte.tv/api/player/v2/config/fr/074580-000-A&lang=fr&width=100%&height=100%&autoplay=true&mute=0`
+Watching an interesting documentary on [Arte](https://www.arte.tv/) (a European television) about George Orwell and Aldous Huxley, I found a very good illustration of this dilemma. Huxley and Orwell had a very different vision of the future. And even if it’s a bit oversimplified, to me Orwell’s *Nineteen Eighty-Four* represents the stick while Huxley’s *Brave New World* represents the carrot.
 
 <!-- 
  « ils sont conditionnés de telle sorte que pratiquement ils ne peut s’empêcher de se conduire comme ils le doivent »
