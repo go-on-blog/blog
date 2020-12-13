@@ -27,7 +27,7 @@ export default ({ children }) => {
         {children}
       </div>
       <div class='section footer'>
-        Copyright &copy; 2019, {data.site.siteMetadata.author}. All rights reserved.
+        Copyright &copy; 2019-2020, {data.site.siteMetadata.author}. All rights reserved.
       </div>
     </div>
   )
