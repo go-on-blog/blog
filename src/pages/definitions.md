@@ -170,6 +170,10 @@ It is also a [book](https://gojko.net/books/specification-by-example/) published
 
 ### User Story
 
+> [...] description of a change in system behavior from the perspective of a user.
+>
+> [The Humanizing Work Guide to Splitting User Stories](https://www.humanizingwork.com/the-humanizing-work-guide-to-splitting-user-stories/). (Accessed on December 13th, 2020.)
+
 > User Stories originate with Extreme Programming, their first written description in 1998 only claims that customers define project scope “with user stories, which are like use cases”. Rather than offered as a distinct practice, they are described as one of the “game pieces” used in the “planning game”.
 > 
 > [User Stories, Agile Alliance](https://www.agilealliance.org/glossary/user-stories/)
