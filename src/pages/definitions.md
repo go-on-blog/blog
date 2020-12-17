@@ -59,7 +59,7 @@ Reference definitions of software engineering terms. The definitions either come
 
 > Non-random differential effect on group behavior of conspecifics through actions evolved or intended to elicit this effect.
 >
-> *Effet non aléatoire sur le comportement d’un groupe d’individus de la même espèce, obtenu par des actions modifiées ou créées à cet effet.*
+> *Effet différentiel non aléatoire sur le comportement d’un groupe d’individus de la même espèce, obtenu par des actions qui ont évolué ou ont été créées à cet effet.*
 > 
 > [Leadership in Mammalian Societies: Emergence, Distribution, Power, and Payoff](http://dx.doi.org/10.1016/j.tree.2015.09.013). Smith et al. 2016. (Accessed on December 17th, 2020.)
 
