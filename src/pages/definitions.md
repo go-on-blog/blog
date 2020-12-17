@@ -55,7 +55,13 @@ Reference definitions of software engineering terms. The definitions either come
 > 
 > Louis Guenin. "Candor in Science: Intellectual Honesty". 2005.
 
-### Leader
+### Leadership
+
+> Non-random differential effect on group behavior of conspecifics through actions evolved or intended to elicit this effect.
+>
+> *Effet non aléatoire sur le comportement d’un groupe d’individus de la même espèce, obtenu par des actions modifiées ou créées à cet effet.*
+> 
+> [Leadership in Mammalian Societies: Emergence, Distribution, Power, and Payoff](http://dx.doi.org/10.1016/j.tree.2015.09.013). 2015. (Accessed on December 17th, 2020.)
 
 > Anyone who’s in on a decision that affects the whole group is a *leader*.
 > 
