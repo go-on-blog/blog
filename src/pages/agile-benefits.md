@@ -1,6 +1,6 @@
 ---
 title: "Agile benefits"
-date: "2020-12-21 »
+date: "2020-12-21"
 ---
 What are the actual benefits of Agile? What kind of problems is this approach able to solve? We don’t do Agile or Scrum for itself. So why should we do Agile?<!-- end -->
 
