@@ -26,7 +26,7 @@ export default ({ data }) => {
 
 export const query = graphql`
   query {
-    allMarkdownRemark(sort: { fields: [frontmatter___date], order: DESC }) {
+    allMarkdownRemark(filter: {fields: {slug: {nin: ["/map/", "/definitions/"]}}}, sort: { fields: [frontmatter___date], order: DESC }) {
       totalCount
       edges {
         node {

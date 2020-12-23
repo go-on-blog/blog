@@ -21,6 +21,8 @@ export default ({ children }) => {
         <Link to={`/`}>{data.site.siteMetadata.title}</Link>
       </div>
       <div class='section menu'>
+        <Link to={`/map/`}>Map</Link> |
+        <Link to={`/definitions/`}>Defs</Link> |
         <Link to={`/about/`}>About</Link>
       </div>
       <div class='section content'>
