@@ -52,6 +52,7 @@ module.exports = {
                             maxWidth: 590
                         },
                     },
+                    'gatsby-remark-graphviz' // place before other plugins that modify code blocks (such as prismjs)
                 ],
             }
         },
