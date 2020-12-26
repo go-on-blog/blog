@@ -23,7 +23,19 @@ Reference definitions of software engineering terms. The definitions either come
 
 > A systematic pattern of deviation from norm or rationality in judgment.
 >
-> Martie Haselton, Daniel Nettle, Paul W. Andrews (2005). « The evolution of cognitive bias ». In  [The Handbook of Evolutionary Psychology](http://www.sscnet.ucla.edu/comm/haselton/papers/downloads/handbookevpsych.pdf). John Wiley & Sons Inc. pp. 724–746.
+> Martie Haselton, Daniel Nettle, Paul W. Andrews (2005). « The evolution of cognitive bias ». In [The Handbook of Evolutionary Psychology](http://www.sscnet.ucla.edu/comm/haselton/papers/downloads/handbookevpsych.pdf). John Wiley & Sons Inc. pp. 724–746.
+
+### Command and Control (C2)
+
+> The term command and control is clearly a product of the Industrial Age.
+> The first use of the term as we understand it appears to be by Jomini
+> (Henri de Jomini, 1838) in The Art of War, when he entitles a section of
+> the book, “The Command of Armies and the Supreme Control of Operations.”
+> [...]
+> Many official definitions continue to be focused on the authorities associated with command, not on what needs to be accomplished and how it could or should be accomplished [...].
+> It was not until the middle of the century, following Napoleon’s staff innovations, that the term command and control began to be widely used. This raised the question of what the additional term control meant. Several explanations have been provided. *One view maintains that command refers to what a commander does and control is associated with how the “will” of the commander becomes translated into instructions* and promulgated throughout forces by the command staff [...]. *Another view parses “the art and science of command and control”: command is the art, and control is the science* [...]. The control (or scientific) aspect of C2 fit well into an Industrial Age perspective that assumed that organizations and situations could be adequately represented as machines, albeit complicated machines. Given that a machine behaves according to a knowable set of rules, results could be controlled scientifically.
+>
+> [Toward Harmonizing Command and Control with Organization and Management Theory](http://www.dodccrp.org/files/IC2J_v3n2_06_Alberts.pdf). David S. Alberts, Mark E. Nissen. The International C2 Journal, 2009. 
 
 ### Continuous Delivery
 
@@ -43,7 +55,7 @@ Reference definitions of software engineering terms. The definitions either come
 >
 > [US Code of Federal Regulations Title 21, 820.3(g) Definitions][QSR]
 
-###  IKIWISI
+### IKIWISI
 
 > I’ll Know It When I See It.
 > 
