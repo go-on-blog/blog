@@ -177,6 +177,12 @@ It is also a [book](https://gojko.net/books/specification-by-example/) published
 >> 
 >> Alistair Cockburn. [Twitter](https://twitter.com/TotherAlistair/status/1207303748491644928)
 
+### Stakeholder
+
+> Anyone who could stop a product from going live is a stakeholder.
+> 
+> Arie van Bennekum. Agile Coach Academy, September 2020.
+
 ### Three amigos
 
 > I suggest you read George Dinwiddie’s [blog on the 3 amigos](http://blog.gdinwiddie.com/tag/three-amigos/). He is the originator of this term.
