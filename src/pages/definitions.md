@@ -61,7 +61,7 @@ Reference definitions of software engineering terms. The definitions either come
 
 > A feature team is a long-lived, cross-functional, cross-component team that completes many end-to-end customer features — one by one.
 >
-> Craig Larman, Bas Vodde in [Scaling Lean & Agile Development](https://featureteams.org/feature_team_primer.pdf)
+> Craig Larman, Bas Vodde in [Scaling Lean & Agile Development](https://res.infoq.com/articles/scaling-lean-agile-feature-teams/en/resources/feature%20teams_%20infoq_%20final.pdf)
 
 ### IKIWISI
 
