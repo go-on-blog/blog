@@ -57,6 +57,15 @@ Reference definitions of software engineering terms. The definitions either come
 >
 > [US Code of Federal Regulations Title 21, 820.3(g) Definitions][QSR]
 
+### Empathy
+
+> Theodor Lipps created the framework for the concept of Einfühlung, defined as "projecting oneself onto the object of perception."
+> The word "empathy" was formed in english to translate the german.
+
+> Le terme d’empathie prend ses racines à la fin du XIXème siècle avec le terme d’Einfühlung, popularisé par l’esthétique allemande avant d’être reprise par la psychologie, sous l’influence notamment des travaux de Theodor Lippps, au tournant du XXème siècle. Il deviendra ensuite empathy sous la plume du psychologue américain Edward Titchener (1867-1927) au début du XXème siècle.
+> 
+> [Le concept d’empathie, Ludovic Gadeau](http://ludovicgadeau-psychotherapie.com/le-concept-dempathie-approche-philosophique/).
+
 ### Feature Team
 
 > A feature team is a long-lived, cross-functional, cross-component team that completes many end-to-end customer features — one by one.
