@@ -13,6 +13,19 @@ Reference definitions of software engineering terms. The definitions either come
 >
 > [A Guide to the Project Management Body of Knowledge - Fifth Edition][PMBOK]
 
+### Angoisse
+
+> Englobe l’anxiété et ses signes somatiques d’oppression et de constriction.
+> Phénomène d’intensité croissante : inquiétude > anxiété > angoisse.
+> 
+> [Troubles anxieux et phobiques](https://www.psycom.org/wp-content/uploads/2020/11/Troubles-anxieux-et-phobiques-2020.pdf). Psycom. 2020.
+
+### Anxiété
+
+> État mental de trouble et d’agitation, sentiment d’insécurité indéfinissable, peur sans objet.
+> 
+> [Troubles anxieux et phobiques](https://www.psycom.org/wp-content/uploads/2020/11/Troubles-anxieux-et-phobiques-2020.pdf). Psycom. 2020.
+
 ### ATDD
 
 > Form of test-[first] development that concentrates on applying TDD at the feature [...] level, based on acceptance tests developed for requirements at those levels.
@@ -95,6 +108,12 @@ Reference definitions of software engineering terms. The definitions either come
 > Anyone who’s in on a decision that affects the whole group is a *leader*.
 > 
 > Mezick, Daniel. [Scaling Employee Engagement](https://www.youtube.com/watch?v=NTNPdYJNces&t=33m20s). 2019.
+
+### Peur
+
+> État anxieux accompagnant la prise de conscience d’une menace ou d’un  danger, réels, perçus par chacun.
+> 
+> [Troubles anxieux et phobiques](https://www.psycom.org/wp-content/uploads/2020/11/Troubles-anxieux-et-phobiques-2020.pdf). Psycom. 2020.
 
 ### Should, May, Can, Must
 
