@@ -58,6 +58,12 @@ Reference definitions of software engineering terms. The definitions either come
 > 
 > Nicole Forsgren, Jez Humble, Gene Kim. Accelerate. 2018.
 
+### Decoupled
+
+> Code can be said to be *decoupled* when your classes are designed in such a way that they don’t depend on the concrete implementations of other classes.
+>
+> Nick Hodges. [Code Against Interfaces, Not Implementations](https://betterprogramming.pub/code-against-interfaces-not-implementations-37b30e7ab992). 2020.
+
 ### Design input
 
 > [...] the physical and performance requirements of a device that are used as a basis for device design.
@@ -210,6 +216,12 @@ It is also a [book](https://gojko.net/books/specification-by-example/) published
 >> Spike should never have the potential to evolve into the final product.
 >> 
 >> Alistair Cockburn. [Twitter](https://twitter.com/TotherAlistair/status/1207303748491644928)
+
+### Spy
+
+> A spy is a test double that records the arguments it is called with so that those values can be inspected later on.
+>
+> [Mastering React Test-Driven Development, Daniel Irvine](https://www.packtpub.com/product/mastering-react-test-driven-development/9781789133417). 2019. Packt Publishing.
 
 ### Stakeholder
 
