@@ -1,3 +1,7 @@
+- Github is the repository of origin
+- Netlify is used to build and deploy the website, through its connection with Github
+- Heroku is hosting the website
+
 <!-- AUTO-GENERATED-CONTENT:START (STARTER) -->
 <p align="center">
   <a href="https://www.gatsbyjs.org">
