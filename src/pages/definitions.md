@@ -1,5 +1,5 @@
 ---
-title: "Software Engineering Definitions"
+title: "My Favorite Software Engineering Definitions"
 date: "2019-12-08"
 ---
 Reference definitions of software engineering terms. The definitions either come from standards bodies or from people who are authorities in their field.<!-- end -->
@@ -100,6 +100,7 @@ Reference definitions of software engineering terms. The definitions either come
 ### Event Sourcing
 
 > Event Sourcing is an alternative way to persist data. In contrast with state-oriented persistence that only keeps the latest version of the entity state, Event Sourcing stores each state mutation as a separate record called an event.
+> 
 > Alexey Zimarev in [What is Event Sourcing?](https://www.eventstore.com/blog/what-is-event-sourcing). 2020.
 
 ### Feature Team
