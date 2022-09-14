@@ -26,6 +26,12 @@ Reference definitions of software engineering terms. The definitions either come
 > 
 > [Troubles anxieux et phobiques](https://www.psycom.org/wp-content/uploads/2020/11/Troubles-anxieux-et-phobiques-2020.pdf). Psycom. 2020.
 
+### Architecture
+
+> The architecture of a product can be defined as the scheme by which the functions it performs are allocated to its constituent components.
+> 
+> Inspired by Ulrich, Karl. [The Role of Product Architecture in the Manufacturing Firm](https://dspace.mit.edu/bitstream/handle/1721.1/48938/roleofproductarc00ulri.pdf?sequence=1). 1995.
+
 ### ATDD
 
 > Form of test-[first] development that concentrates on applying TDD at the feature [...] level, based on acceptance tests developed for requirements at those levels.
@@ -58,6 +64,12 @@ Reference definitions of software engineering terms. The definitions either come
 > 
 > Nicole Forsgren, Jez Humble, Gene Kim. Accelerate. 2018.
 
+### CQRS
+
+> On a high level, CQRS states the fact that operations that trigger state transitions should be described as *commands* and any data retrieval that goes beyond the need of the command execution, should be named a *query*. Because the operational requirements for executing commands and queries are very often different, developers should consider using different persistence techniques for handling commands and queries, therefore segregating them.
+> 
+> Alexey Zimarev in [Event Sourcing and CQRS](https://www.eventstore.com/blog/event-sourcing-and-cqrs). 2020.
+
 ### Decoupled
 
 > Code can be said to be *decoupled* when your classes are designed in such a way that they don’t depend on the concrete implementations of other classes.
@@ -84,6 +96,11 @@ Reference definitions of software engineering terms. The definitions either come
 > Le terme d’empathie prend ses racines à la fin du XIXème siècle avec le terme d’Einfühlung, popularisé par l’esthétique allemande avant d’être reprise par la psychologie, sous l’influence notamment des travaux de Theodor Lippps, au tournant du XXème siècle. Il deviendra ensuite empathy sous la plume du psychologue américain Edward Titchener (1867-1927) au début du XXème siècle.
 > 
 > [Le concept d’empathie, Ludovic Gadeau](http://ludovicgadeau-psychotherapie.com/le-concept-dempathie-approche-philosophique/).
+
+### Event Sourcing
+
+> Event Sourcing is an alternative way to persist data. In contrast with state-oriented persistence that only keeps the latest version of the entity state, Event Sourcing stores each state mutation as a separate record called an event.
+> Alexey Zimarev in [What is Event Sourcing?](https://www.eventstore.com/blog/what-is-event-sourcing). 2020.
 
 ### Feature Team
 
