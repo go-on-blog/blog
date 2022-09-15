@@ -139,6 +139,12 @@ Reference definitions of software engineering terms. The definitions either come
 > 
 > [Troubles anxieux et phobiques](https://www.psycom.org/wp-content/uploads/2020/11/Troubles-anxieux-et-phobiques-2020.pdf). Psycom. 2020.
 
+### Quality (software)
+
+> Quality means conformance to requirements, not goodness.
+>
+> Philip B. Crosby. Four Absolutes of Quality Management. 1999.
+
 ### Should, May, Can, Must
 
 > [...] *should* indicates that among several possibilities, one is recommended as particularly suitable, without mentioning or excluding others, or that a certain course of action is preferred but not necessarily required, or that (in the negative form) a certain possibility or course of action should be avoided but is not prohibited.
