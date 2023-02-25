@@ -9,7 +9,7 @@
 .page {
   display: flex;
   flex-wrap: wrap;
-  font-family: 'IBM Plex Mono', monospace;
+  font-family: 'Source Sans Pro', sans-serif;
 }
 
 .section {
@@ -20,11 +20,11 @@
 }
 
 .menu {
-  background-color: #5995DA;
+  background-color: #ffffff;
 }
 
 .header {
-  background-color: #B2D6FF;
+  background-color: #c0c0c0;
   height: 60px;
 }
 
@@ -51,6 +51,7 @@
 .content p,
 .content ol,
 .content ul {
+  font-size: 1.1rem;
   margin-bottom: 1.2em;
   line-height: 1.4;
 }
@@ -61,7 +62,10 @@
   margin-top: 12px;
   margin-bottom: 12px;
   padding: 12px;
-  font-family: 'Menlo', 'Lucida Console', 'Monaco', monospace;
+}
+
+.content pre code {
+  font-family: 'IBM Plex Mono', 'Lucida Console', 'Monaco', monospace;
   font-size: 1rem;
 }
 
@@ -75,7 +79,7 @@
 blockquote > :last-child { margin-bottom: 0 !important; }
 
 .footer {
-  background-color: #f5f4f2;
+  background-color: #c0c0c0;
   height: 70px;
 }
 
@@ -89,7 +93,7 @@ blockquote > :last-child { margin-bottom: 0 !important; }
 
 .post div.text > p:first-child {
   color: #606060;
-  font-size: 1.2rem;
+  font-size: 1.4rem;
   font-style: italic;
   width: 38em;
 }
@@ -188,7 +192,7 @@ a[href*="http"] {
 
 @media only screen and (min-width: 961px) {
   body {
-    background-color: #ffffff;
+    background-color: #c0c0c0;
   }
   .page {
     width: 960px;

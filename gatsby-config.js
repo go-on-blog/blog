@@ -72,6 +72,10 @@ module.exports = {
             file: `https://fonts.googleapis.com/css2?family=Oswald&display=swap`,
           },
           {
+            name: `Source Sans Pro`,
+            file: `https://fonts.googleapis.com/css2?family=Source+Sans+Pro:ital@0;1&display=swap`
+          },
+          {
             name: `IBM Plex Mono`,
             file: `https://fonts.googleapis.com/css2?family=IBM+Plex+Mono:ital@0;1&display=swap`
           }
