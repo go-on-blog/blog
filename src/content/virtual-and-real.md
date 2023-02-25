@@ -1,6 +1,7 @@
 ---
 title: "Virtual and Real"
 date: "2021-03-10"
+slug: "/virtual-and-real/"
 ---
 What differences do I notice between meeting in a virtual way and meeting in a real way?<!-- end -->
 

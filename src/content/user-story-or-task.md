@@ -1,6 +1,7 @@
 ---
 title: "What’s the difference between a user story and a task?"
 date: "2019-11-10"
+slug: "/user-story-or-task/"
 ---
 
 It is not always easy to determine if something must be created as a task or as a user story. This post explores this question.

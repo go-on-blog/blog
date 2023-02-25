@@ -1,6 +1,7 @@
 ---
 title: "What is the optimal size of a team?"
 date: "2020-04-22"
+slug: "/optimal-team-size/"
 ---
 The Scrum Guide currently sets the size of the Development Team from three to nine members, around the number *six*. Others say *seven* is the magic team size. What is the rationale for such a number and where does it come from?<!-- end -->
 

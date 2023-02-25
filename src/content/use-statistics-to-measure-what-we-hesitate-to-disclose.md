@@ -1,6 +1,7 @@
 ---
 title: "Use statistics to measure what we hesitate to disclose"
 date: "2020-02-10"
+slug: "/use-statistics-to-measure-what-we-hesitate-to-disclose/"
 ---
 A few days ago, I was participating in an HR workshop and we were designing OKRs for a new onboarding process. The problem was to measure one of the key results: the satisfaction of the new employees. Our concern was that probationary employees would hesitate giving negative feedback on their organization during this trial period. How on earth could we measure their satisfaction?<!-- end -->
 

@@ -1,6 +1,7 @@
 ---
 title: "Quantification"
 date: "2020-11-27"
+slug: "/quantification/"
 ---
 Tout peut-il être quantifié ? C’est la question, le défi même, qui a été posé à Tom Gilb, consultant américain, largement connu pour son travail sur les métriques et la quantification.<!-- end -->
 

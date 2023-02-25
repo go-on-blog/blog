@@ -1,6 +1,7 @@
 ---
 title: "How to measure performance when items are re-estimated?"
 date: "2019-12-15"
+slug: "/measuring-performance/"
 ---
 Is it a good idea to re-estimate stories? When should we re-estimate and when should we avoid to do so? And what is the consequence of re-estimating on the velocity’s consistency and our ability to make reliable projections?<!-- end -->
 

@@ -36,8 +36,8 @@
 /* Layout............................................................ */
 
 .content h1 {
-  font-family: 'Yanone Kaffeesatz', sans-serif;
-  font-weight: 500;
+  font-family: 'Oswald', sans-serif;
+  font-weight: 400;
   font-size: 2rem;
   margin-bottom: 2rem;
 }
@@ -96,7 +96,7 @@ blockquote > :last-child { margin-bottom: 0 !important; }
 
 .post h3 {
   color: #606060;
-  font-family: 'Yanone Kaffeesatz', sans-serif;
+  font-family: 'Oswald', sans-serif;
   font-size: 1.6rem;
   font-weight: normal;
 }
@@ -105,8 +105,8 @@ blockquote > :last-child { margin-bottom: 0 !important; }
 
 .log h3 {
   color: #606060;
-  font-family: 'Yanone Kaffeesatz', sans-serif;
-  font-weight: 500;
+  font-family: 'Oswald', sans-serif;
+  font-weight: 400;
   font-size: 1.6rem;
 }
 

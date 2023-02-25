@@ -1,16 +1,19 @@
-import React from "react";
+import * as React from 'react'
 import { Link, graphql } from "gatsby";
-import Layout from "../components/layout";
+import Layout from '../components/layout'
+import { Seo } from "../components/seo"
 
-export default ({ data }) => {
+const IndexPage = ({ data }) => {
+  const totalCount = data.allMarkdownRemark.edges.length;
+
   return (
-    <Layout>
+    <Layout pageTitle="Home Page">
       <div>
         <h1>Scattered notes on Agile</h1>
-        <h4>{data.allMarkdownRemark.totalCount} posts</h4>
+        <h4>{totalCount} posts</h4>
         {data.allMarkdownRemark.edges.map(({ node }) => (
           <div class='log' key={node.id}>
-            <Link to={node.fields.slug}>
+            <Link to={"/content" + node.frontmatter.slug}>
               <h3>
                 {node.frontmatter.title}{" "}<br />
                 <span>{node.frontmatter.date}</span>
@@ -22,25 +25,31 @@ export default ({ data }) => {
       </div>
     </Layout>
   )
-};
+}
 
-export const query = graphql`
-  query {
-    allMarkdownRemark(filter: {fields: {slug: {nin: ["/map/", "/definitions/"]}}}, sort: { fields: [frontmatter___date], order: DESC }) {
-      totalCount
-      edges {
-        node {
-          id
-          frontmatter {
-            title
-            date(formatString: "DD MMMM, YYYY")
-          }
-          fields {
-            slug
-          }
-          excerpt
+export const pageQuery = graphql`
+query {
+  allMarkdownRemark(filter: {frontmatter: {slug: {nin: ["/map/", "/definitions/"]}}}, sort: {frontmatter: {date: DESC}}) {
+    edges {
+      node {
+        html
+        headings {
+          depth
+          value
         }
+        frontmatter {
+          # Assumes you're using title in your frontmatter.
+          title
+          slug
+        }
+        excerpt
       }
     }
   }
-`;
+}`;
+
+export const Head = () => (
+  <Seo />
+)
+
+export default IndexPage

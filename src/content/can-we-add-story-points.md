@@ -1,6 +1,7 @@
 ---
 title: "Peut-on additionner les story points ?"
 date: "2023-01-31"
+slug: "/can-we-add-story-points/"
 ---
 Quand nous disons d'un élément de backlog qu'il vaut "8", cela signifie-t-il qu'il est huit fois plus complexe qu'un autre qui vaut "1" ?<!-- end -->
 

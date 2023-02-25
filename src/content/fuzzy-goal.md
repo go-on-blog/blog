@@ -1,6 +1,7 @@
 ---
 title: "Représenter l’essence du développement Agile"
 date: "2020-02-23"
+slug: "/fuzzy-goal/"
 ---
 Est-ce que, comme moi, vous en avez assez de voir des Jocondes et des trottinettes pour vous expliquer l’Agilité ? Oui mais alors, quelle image nous aiderait mieux à saisir l’essence de cette approche du développement logiciel ?<!-- end -->
 

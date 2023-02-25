@@ -1,6 +1,7 @@
 ---
 title: "How to grow accountability?"
 date: "2020-12-06"
+slug: "/how-to-grow-accountability/"
 ---
 When we see a team performing badly on a regular basis and it seems they don’t feel responsible for not meeting their objectives — they accept it —, what should we do?<!-- end -->
 

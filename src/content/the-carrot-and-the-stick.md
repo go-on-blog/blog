@@ -1,6 +1,7 @@
 ---
 title: "The carrot and the stick"
 date: "2020-12-13"
+slug: "/the-carrot-and-the-stick/"
 ---
 Is the carrot the best way to get the expected behavior from someone? And when our western societies promote this strategy over the stick, is it for good reasons? Is it more ethical to use the carrot than to control people through pain?<!-- end -->
 

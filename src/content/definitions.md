@@ -1,6 +1,7 @@
 ---
 title: "My Favorite Software Engineering Definitions"
 date: "2019-12-08"
+slug: "/definitions/"
 ---
 Reference definitions of software engineering terms. The definitions either come from standards bodies or from people who are authorities in their field.<!-- end -->
 

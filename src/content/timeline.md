@@ -1,6 +1,7 @@
 ---
 title: "Agile Historical Timeline"
 date: "2020-12-03"
+slug: "/timeline/"
 ---
 The word *Agile* has been coined in 2001. But the principles and practices that we know under this name date as far back as the mid-1950s. This is an historical timeline about Agility.<!-- end -->
 

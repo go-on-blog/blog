@@ -1,6 +1,7 @@
 ---
 title: "Splitting is valuing"
 date: "2020-12-13"
+slug: "/splitting-is-valuing/"
 ---
 Teams often find it hard to split large backlog items into smaller ones. And it is even more difficult to split items while preserving value. So it’s important to make clear that splitting has an impact on value.<!-- end -->
 
