@@ -14,11 +14,15 @@ const IndexPage = ({ data }) => {
         {data.allMarkdownRemark.edges.map(({ node }) => (
           <div class='log' key={node.id}>
             <Link to={"/content" + node.frontmatter.slug}>
-              <h3>
-                {node.frontmatter.title}{" "}<br />
-                <span>{node.frontmatter.date}</span>
-              </h3>
-              <p>{node.excerpt}</p>
+              <div class='entry'>
+                <div class='release-date'>
+                  <p>{node.frontmatter.date}</p>
+                </div>
+                <div class='excerpt'>
+                  <h3>{node.frontmatter.title}</h3>
+                  <p>{node.excerpt}</p>
+                </div>
+              </div>
             </Link>
           </div>
         ))}
@@ -40,6 +44,7 @@ query {
         frontmatter {
           # Assumes you're using title in your frontmatter.
           title
+          date(formatString: "MMMM DD, YYYY")
           slug
         }
         excerpt

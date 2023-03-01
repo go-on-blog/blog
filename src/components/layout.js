@@ -20,9 +20,9 @@ const Layout = ({ pageTitle, children }) => {
         <Link to={`/`}>{data.site.siteMetadata.title}</Link>
       </div>
       <div class='section menu'>
-        <Link to={`/content/map/`}>Map</Link> |
-        <Link to={`/content/definitions/`}>Defs</Link> |
-        <Link to={`/about/`}>About</Link>
+        <Link to={`/content/map/`}>/map</Link>&nbsp;
+        <Link to={`/content/definitions/`}>/defs</Link>&nbsp;
+        <Link to={`/about/`}>/about</Link>
       </div>
       <div class='section content'>
         {children}
