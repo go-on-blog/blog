@@ -1,9 +1,11 @@
 ---
 title: "My Favorite Software Engineering Definitions"
-date: "2019-12-08"
+date: "2023-02-28"
 slug: "/definitions/"
 ---
-Reference definitions of software engineering terms. The definitions either come from standards bodies or from people who are authorities in their field.<!-- end -->
+Reference definitions of software engineering terms. The definitions either come from standards bodies or from people who are authorities in their field.  
+Hereafter, italics are used to mention the origin of the word.
+<!-- end -->
 
 ### Acceptance Criteria
 
@@ -91,12 +93,10 @@ Reference definitions of software engineering terms. The definitions either come
 
 ### Empathy
 
-> Theodor Lipps created the framework for the concept of Einfühlung, defined as "projecting oneself onto the object of perception."
-> The word "empathy" was formed in english to translate the german.
+*Theodor Lipps created the framework for the concept of Einfühlung, defined as "projecting oneself onto the object of perception."
+The word "empathy" was formed in english to translate the german. (Cf [Wikipedia](https://en.wikipedia.org/wiki/Theodor_Lipps).)*
 
-> Le terme d’empathie prend ses racines à la fin du XIXème siècle avec le terme d’Einfühlung, popularisé par l’esthétique allemande avant d’être reprise par la psychologie, sous l’influence notamment des travaux de Theodor Lippps, au tournant du XXème siècle. Il deviendra ensuite empathy sous la plume du psychologue américain Edward Titchener (1867-1927) au début du XXème siècle.
-> 
-> [Le concept d’empathie, Ludovic Gadeau](http://ludovicgadeau-psychotherapie.com/le-concept-dempathie-approche-philosophique/).
+*Le terme d’empathie prend ses racines à la fin du XIXème siècle avec le terme d’Einfühlung, popularisé par l’esthétique allemande avant d’être reprise par la psychologie, sous l’influence notamment des travaux de Theodor Lippps, au tournant du XXème siècle. Il deviendra ensuite empathy sous la plume du psychologue américain Edward Titchener (1867-1927) au début du XXème siècle. (Cf. [Le concept d’empathie, Ludovic Gadeau](http://ludovicgadeau-psychotherapie.com/le-concept-dempathie-approche-philosophique/).)*
 
 ### Event Sourcing
 
@@ -169,10 +169,10 @@ Reference definitions of software engineering terms. The definitions either come
 > Prove to customer/user it’s possible. Estimate effort (where necessary).
 > 
 > [Zach Bonaker](https://twitter.com/zachbonaker/status/1207042495990751232)
+
+> Prototype has the awful potential to become release 1..n of a badly architected product (though it shouldn’t).
 > 
->> Prototype has the awful potential to become release 1..n of a badly architected product (though it shouldn’t).
->> 
->> Alistair Cockburn. [Twitter](https://twitter.com/TotherAlistair/status/1207303748491644928)
+> Alistair Cockburn. [Twitter](https://twitter.com/TotherAlistair/status/1207303748491644928)
 
 ### Reactance
 
@@ -220,6 +220,7 @@ Reference definitions of software engineering terms. The definitions either come
 ### Specification
 
 > Specification means any requirement with which a product, process, service, or other activity must conform.
+>
 > [820.3 Definitions.][QSR]
 
 > A document that specifies, in a complete, precise, verifiable manner, the requirements, design, behavior, or other characteristics of a system, component, product, result, or service and, often, the procedures for determining whether these provisions have been satisfied.
@@ -228,19 +229,19 @@ Reference definitions of software engineering terms. The definitions either come
 
 ### Specification By Example
 
-The term [Specification By Example](https://martinfowler.com/bliki/SpecificationByExample.html) was originally coined by Martin Fowler in 2004.
+*The term [Specification By Example](https://martinfowler.com/bliki/SpecificationByExample.html) was originally coined by Martin Fowler in 2004.*
 
-It is also a [book](https://gojko.net/books/specification-by-example/) published by Gojko Adzic in 2011.
+*It is also a [book](https://gojko.net/books/specification-by-example/) published by Gojko Adzic in 2011.*
 
 ### Spike
 
 > Prove to team it’s possible. Timebox effort.
 > 
 > Zach Bonaker. [Twitter](https://twitter.com/zachbonaker/status/1207042495990751232)
+
+> Spike should never have the potential to evolve into the final product.
 > 
->> Spike should never have the potential to evolve into the final product.
->> 
->> Alistair Cockburn. [Twitter](https://twitter.com/TotherAlistair/status/1207303748491644928)
+> Alistair Cockburn. [Twitter](https://twitter.com/TotherAlistair/status/1207303748491644928)
 
 ### Spy
 
@@ -256,7 +257,7 @@ It is also a [book](https://gojko.net/books/specification-by-example/) published
 
 ### Three amigos
 
-> I suggest you read George Dinwiddie’s [blog on the 3 amigos](http://blog.gdinwiddie.com/tag/three-amigos/). He is the originator of this term.
+*“I suggest you read George Dinwiddie’s [blog on the 3 amigos](http://blog.gdinwiddie.com/tag/three-amigos/). He is the originator of this term.”*
 
 ### Unit Test
 
@@ -277,9 +278,7 @@ It is also a [book](https://gojko.net/books/specification-by-example/) published
 
 ### User Story Template 
 
-> The “role-feature-reason” format for expressing user stories was invented at Connextra in the UK in 2001.
-> 
-> [User Story Template, Agile Alliance](https://www.agilealliance.org/glossary/user-story-template/)
+*The “role-feature-reason” format for expressing user stories was invented at Connextra in the UK in 2001. (Cf. [User Story Template, Agile Alliance](https://www.agilealliance.org/glossary/user-story-template/).)*
 
 ### Validation
 

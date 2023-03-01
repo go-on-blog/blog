@@ -4,7 +4,8 @@ date: "2019-11-10"
 slug: "/user-story-or-task/"
 ---
 
-It is not always easy to determine if something must be created as a task or as a user story. This post explores this question.
+It is not always easy to determine if something must be created as a task or as a user story. This post explores this question.<!-- end -->
+
 Project Management Software provide different types of objects to represent work items: epic, story, task... Usually, the behavior for tasks is specific as they are not considered Product Backlog Items. So it’s important to make the right decision.
 
 To help understand the difference between a user story and a task, I wrote a hypothetical conversation between a Scrum Master, a Product Owner and a Developer.

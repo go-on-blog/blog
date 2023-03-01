@@ -7,8 +7,8 @@ A few days ago, I was participating in an HR workshop and we were designing OKRs
 
 I remembered one of my best friends advised me to watch this video:
 
-[Si ceux qui consomment n’osent pas le dire, comment savoir ?](https://www.youtube.com/embed/VI4_pmGLFZk/?start=183)  
-(**If those using cannabis don’t dare to say it, how might we know?**). 
+`youtube: VI4_pmGLFZk`
+
 
 *Chat Sceptique* describes a smart method allowing to measure with statistics behaviors we hesitate to disclose.
 
@@ -25,6 +25,8 @@ Here is an english translation of the method:
 > 
 > [...] From a statistical standpoint, results are blurred at an individual
 > level, but not at the collective level.
+>
+> [If those using cannabis don’t dare to say it, how might we know?](https://www.youtube.com/embed/VI4_pmGLFZk/?start=183)
 
 And the original french subtitles:
 
@@ -40,5 +42,7 @@ And the original french subtitles:
 > 
 > [...] D’un point du vue statistique les pistes sont donc brouillées au niveau
 > individuel, mais pas au niveau collectif.
+>
+> [Si ceux qui consomment n’osent pas le dire, comment savoir ?](https://www.youtube.com/embed/VI4_pmGLFZk/?start=183)
 
 Thank you Michel for this great video!

@@ -3,7 +3,7 @@ title: "What’s the difference between a user story and an epic?"
 date: "2019-12-11"
 slug: "/user-story-or-epic/"
 ---
-How many times did you hear this question: "Is that an epic or a user story?" Is there a simple rule to answer the question?
+How many times did you hear this question: "Is that an epic or a user story?" Is there a simple rule to answer the question?<!-- end -->
 
 A few days ago, I read the following sentence in a post from Dan North. The remark in brackets is particularly obvious:
 
