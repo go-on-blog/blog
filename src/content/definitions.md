@@ -61,6 +61,16 @@ Hereafter, italics are used to mention the origin of the word.
 >
 > [Toward Harmonizing Command and Control with Organization and Management Theory](http://www.dodccrp.org/files/IC2J_v3n2_06_Alberts.pdf). David S. Alberts, Mark E. Nissen. The International C2 Journal, 2009. 
 
+### Company
+
+> The purpose of a company is to engage all its stakeholders in shared and sustained value creation.
+>
+> [Davos Manifesto 2020](https://www.weforum.org/agenda/2019/12/davos-manifesto-2020-the-universal-purpose-of-a-company-in-the-fourth-industrial-revolution/)
+
+> The purpose of business is to create and keep a customer.
+>
+> Peter Drucker 
+
 ### Continuous Delivery
 
 > Continuous Delivery is a set of capabilities that enable us to get changes of all kinds — features, configuration changes, bug fixes, experiments — into production or into the hands of users *safely*, *quickly*, and *sustainably*.
