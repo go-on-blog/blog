@@ -10,3 +10,9 @@ The word *Agile* has been coined in 2001. But the principles and practices that 
 This picture comes from a blog post by Cliff Berg. Here is his own attribution:
 
 > This chart was developed by a colleague at a company that I worked at, Santeon. The information in the graphic was taken from [an article by Craig Larman](https://www.craiglarman.com/wiki/downloads/misc/history-of-iterative-larman-and-basili-ieee-computer.pdf).
+
+## 2004
+
+Kanban entered into software development in 2004, when David Anderson introduced it in practice while assisting a software development team at Microsoft.
+
+Cf. D. J. Anderson, Kanban: Successful Evolutionary Change for Your Technology Business, Blue Hole Press, 2010.
