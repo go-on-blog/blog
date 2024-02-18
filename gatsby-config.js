@@ -68,6 +68,10 @@ module.exports = {
         preconnect: ["https://fonts.gstatic.com"],
         web: [
           {
+            name: `Source Sans Pro`,
+            file: `https://fonts.googleapis.com/css2?family=Source+Sans+Pro:ital,wght@0,300;0,400;0,600;0,700;0,900;1,400&display=swap`
+          },
+          {
             name: `Oswald`,
             file: `https://fonts.googleapis.com/css2?family=Oswald&display=swap`,
           },

@@ -44,7 +44,5 @@ Talking with [Neno](https://www.linkedin.com/in/iamneno/) recently, and then try
 5. **Celebrate their accomplishment** at the end of the iteration.
 
 
----
-
 [Cammam2020]: http://www.camman-evaluation.com/blog/2020/2/28/how-do-you-like-to-be-held-accountable "how do you like to be held accountable?"
 

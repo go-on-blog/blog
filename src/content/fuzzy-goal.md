@@ -5,7 +5,7 @@ slug: "/fuzzy-goal/"
 ---
 Est-ce que, comme moi, vous en avez assez de voir des Jocondes et des trottinettes pour vous expliquer l’Agilité ? Oui mais alors, quelle image nous aiderait mieux à saisir l’essence de cette approche du développement logiciel ?<!-- end -->
 
-![Judith et Holopherne, Le Caravage. 1607.](https://thetoulousecaravaggio.com/theme/caravaggio/img/details/judith-et-holopherne.jpg)
+![Judith et Holopherne, Le Caravage. 1607.](../images/judith-and-holophernes-toulouse.jpg)
 
 Un dimanche après-midi, je regardais sur [Arte](https://www.arte.tv/fr/videos/082229-000-A/l-affaire-caravage/) un passionnant reportage de Frédéric Biamonti : [L’affaire Caravage](https://lesbatelieresproductions.com/films/l-affaire-caravage).
 
