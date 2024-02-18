@@ -1,9 +1,10 @@
 ---
 title: "Talking vs Writing to build shared understanding"
 date: "2024-02-17"
-slug: "/talking-vs-writing/" 
+slug: "/talking-vs-writing/"
 ---
-Recently, I was coaching a brand new team in a large French bank. Its backlog was almost empty and the Product Owner knew very little about its customers and their expectations. So I proposed to organize a workshop with a person who would be able to answer their questions. The Product Owner told me he would prefer to ask questions by email and get answers in the same way. I had to explain why talking is better than writing in this situation.<!-- end -->
+Recently, I was coaching a brand new team in a large French bank. Its backlog was almost empty and the Product Owner knew very little about its customers and their expectations. So I proposed to organize a workshop with a person who would be able to answer their questions. The Product Owner told me he would prefer to ask questions by email and get answers in the same way. I had to explain why talking is better than writing in this situation.
+<!-- end -->
 
 I have long been convinced that a written document is not the best way to convey information, especially about customer expectations. We know the word from Alistair Cockburn:
 
