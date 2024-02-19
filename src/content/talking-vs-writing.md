@@ -52,4 +52,4 @@ What does it mean for us?
 3. The only way to remove ambiguities, is to ask clarifying questions.
 4. By asking question, we not only disambiguate meanings but enrich the topic.
 
-And obviously, a conversation is more efficient than a long thread of emails.
+And obviously, a conversation is more efficient than a long thread of emails (a one way communication).
