@@ -29,7 +29,7 @@ const Layout = ({ pageTitle, children }) => {
         {children}
       </div>
       <div class='section footer'>
-        Copyright &copy; 2019-2023, {data.site.siteMetadata.author}. All rights reserved.
+        Copyright &copy; 2019-2024, {data.site.siteMetadata.author}. All rights reserved.
       </div>
     </div>
   )

@@ -1,8 +1,9 @@
 ---
-title: "Misuse of an Agile principle"
+title: "L'abus d'un principe Agile"
 date: "2024-03-09"
 slug: "/misuse-of-an-agile-principle/"
 ---
+Une équipe se plaint de son directeur qui vient de changer d'avis pour la troisième fois en une semaine à propos du produit qu'elle développe. Quand elle le lui fait remarquer, il répond : « Eh bien, vous êtes agiles, non ? »<!-- end -->
 
 ### Exemple de situation rencontrée
 
@@ -29,13 +30,15 @@ Par cette réponse, il sous-entend que l'Agilité devrait lui donner cette flexi
 
 **Il utilise ainsi une des valeurs cardinales de l'Agilité (l'adaptation au changement) pour justifier une mauvaise décision.**
 
+![Mauvais usage d'un médicament](https://bexleysafeguardingpartnership.co.uk/wp-content/uploads/2020/06/drug-and-alcohol-misuse.jpg)
+
 ### Perception
 
 Le directeur ne perçoit pas que la décision qu'il prend aura un effet négatif sur la confiance que son équipe porte à l'Agilité.
 
 On pourrait imaginer une réaction de l'équipe de ce genre :
 
-> On nous a promis que l'Agilité c'était plus d'autonomie des équipes mais en réalité c'est surtout la possibilité pour nos managers de changer nos agendas comme bon leur semble.
+> On nous a promis que l'Agilité c'était plus d'autonomie des équipes mais en réalité c'est surtout la possibilité pour nos managers de changer nos agendas comme bon leur semble !
 
 ### Changement de perception
 
@@ -43,10 +46,10 @@ On pourrait imaginer une réaction de l'équipe de ce genre :
 > 
 > L'entreprise comprend alors l'avantage qu'elle peut tirer de sa position dominante et le directeur commercial décide de modifier son algorithme.
 > 
-> Au bout de quelque temps, les utilisateurs comprennent que le moteur ne leur proposent pas le produit le plus avantageux pour eux mais celui qui rapporte le plus à l'entreprise.
+> Au bout de quelque temps, les utilisateurs comprennent que le moteur ne leur propose pas le produit le plus avantageux pour eux mais celui qui rapporte le plus à l'entreprise.
 
 Que se passe-t-il ensuite ?
 
-Les utilisateurs perdent confiance dans ce moteur de recherche et le rejettent. Pourtant, l'algorithme n'est pas moins efficace qu'avant. Seul l'usage qui en est fait a provoqué cette situation.
+Il est probable que les utilisateurs perdent confiance dans ce moteur de recherche et le rejettent. Pourtant, l'algorithme n'est pas moins efficace qu'avant. Seul l'usage qui en est fait a provoqué cette situation.
 
-Qu'est-ce que l'on blâme dans cette situation ?
+**Qu'est-ce que l'on blâme dans cette situation ?**
