@@ -33,7 +33,7 @@ const IndexPage = ({ data }) => {
 
 export const pageQuery = graphql`
 query {
-  allMarkdownRemark(filter: {frontmatter: {slug: {nin: ["/map/", "/definitions/"]}}}, sort: {frontmatter: {date: DESC}}) {
+  allMarkdownRemark(filter: {frontmatter: {slug: {nin: ["/map/", "/definitions/", "/patterns/"]}}}, sort: {frontmatter: {date: DESC}}) {
     edges {
       node {
         html
