@@ -3,7 +3,7 @@ title: "L'abus d'un principe Agile"
 date: "2024-03-09"
 slug: "/misuse-of-an-agile-principle/"
 ---
-Une équipe se plaint de son directeur qui vient de changer d'avis pour la troisième fois en une semaine à propos du produit qu'elle développe. Quand elle le lui fait remarquer, il répond : « Eh bien, vous êtes agiles, non ? »<!-- end -->
+Une équipe se plaint de son directeur qui vient de changer d'avis pour la troisième fois en une semaine à propos du produit qu'elle développe. Quand elle le lui fait remarquer, il répond : « Eh bien, vous êtes agiles, non ? »<!-- end -->
 
 ### Exemple de situation rencontrée
 
@@ -30,7 +30,7 @@ Par cette réponse, il sous-entend que l'Agilité devrait lui donner cette flexi
 
 **Il utilise ainsi une des valeurs cardinales de l'Agilité (l'adaptation au changement) pour justifier une mauvaise décision.**
 
-![Mauvais usage d'un médicament](https://bexleysafeguardingpartnership.co.uk/wp-content/uploads/2020/06/drug-and-alcohol-misuse.jpg)
+![Mauvais usage d'un médicament. © Bexley S.H.I.E.L.D.](../images/drug-and-alcohol-misuse.jpg)
 
 ### Perception
 
