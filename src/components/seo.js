@@ -15,6 +15,8 @@ export const Seo = ({ title, description, pathname, children }) => {
   return (
     <>
       <title>{seo.title}</title>
+      <meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=1.0" />
+
       <meta name="description" content={seo.description} />
       <meta name="image" content={seo.image} />
       <meta name="twitter:card" content="summary_large_image" />
