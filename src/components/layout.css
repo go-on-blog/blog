@@ -8,10 +8,6 @@
 
 /* Base styles (to be placed above the @media rules)................. */
 
-body {
-  background-color: #cdca96;
-}
-
 .page {
   display: flex;
   flex-wrap: wrap;
@@ -29,7 +25,115 @@ body {
   height: 40px;
 }
 
-/* Typography (incl. line height, font color)........................ */
+/* Layout and background color....................................... */
+
+.content {
+  padding: 16px;
+  border-top-left-radius: 20px;
+  border-bottom-right-radius: 20px;
+}
+
+.content pre {
+  margin-top: 12px;
+  margin-bottom: 12px;
+  padding: 12px 16px;
+}
+
+.content blockquote {
+  margin-bottom: 1rem;
+  padding: 0.8rem 1rem 0.8rem 1.6rem;
+  border-left: 0.6rem solid #f1f2b3;
+}
+
+blockquote > :last-child { margin-bottom: 0 !important; }
+
+/* Colors............................................................ */
+
+body {
+  background-color: #cdca96;
+}
+
+.content {
+  background-color: #ffffff;
+  color: #404040;
+}
+
+a:link,
+.log h3,
+.post h3,
+.post div.text > p:first-child {
+  color: #007090;
+}
+
+.log h3 {
+  border-bottom: 1px solid #00709040;
+}
+
+.log a,
+.log a:visited {
+  color: #002040;
+}
+
+.content blockquote {
+  background-color: #fdfbd4;
+  color: #300000;
+}
+
+.release-date,
+.footer,
+.footnotes ol {
+  color: #808080;
+}
+
+.footnotes hr {
+  border-top: 1px dotted #c0c0c0;
+}
+
+.content pre code {
+  color: #00f400;
+}
+
+.content pre {
+  background-color: #323232;
+}
+
+a:visited {
+  color: purple;
+}
+
+a:active {
+  color: red;
+}
+
+/* Color preferences................................................. */
+
+@media (prefers-color-scheme: dark) {
+  .content {
+    background-color: #040404;
+    color: #e0e0e0;
+  }
+
+  .log h3,
+  .post h3,
+  .post div.text > p:first-child {
+    color: #40c0e0;
+  }
+
+  blockquote > a:link {
+    color: #40a0c0;
+  }
+
+  .log h3 {
+    border-bottom: 1px solid #40c0e080;
+  }
+
+  .log a,
+  .log a:visited {
+    color: #e0e0e0;
+  }
+}
+
+/* Typography (including line height and margin)..................... */
 
 .page {
   font-family: 'Source Sans Pro', sans-serif;
@@ -37,50 +141,8 @@ body {
   line-height: 1.4;
 }
 
-.header a {
-  font-weight: 900;
-  font-size: 2.5rem;
-  letter-spacing: -0.06rem;
-}
-
-strong {
-  font-weight: 600;
-}
-
-.menu,
-.release-date,
-.footer {
-  font-weight: 300;
-}
-
-.release-date,
-.footer,
-.footnotes ol {
-  color: #808080;
-  font-size: 0.9rem;
-}
-
-.content pre code {
-  font-family: 'IBM Plex Mono', 'Lucida Console', 'Monaco', monospace;
-  font-size: 1rem;
-  color: #00f400;
-}
-
-/* Layout and background color....................................... */
-
-.content {
-  background-color: #ffffff;
-  padding: 16px;
-  border-top-left-radius: 20px;
-  border-bottom-right-radius: 20px;
-}
-
 .content h1 {
   margin-bottom: 2rem;
-}
-
-.content h3 {
-  margin-bottom: 0.6rem;
 }
 
 .content p,
@@ -94,27 +156,40 @@ strong {
   margin-left: 1rem;
 }
 
-.content pre {
-  background-color: #323232;
-  margin-top: 12px;
-  margin-bottom: 12px;
-  padding: 12px 16px;
+.header a {
+  font-weight: 900;
+  font-size: 2.5rem;
+  letter-spacing: -0.06rem;
 }
 
-.content blockquote {
-  background-color: #fdfbd4;
-  margin-bottom: 1rem;
-  padding: 0.8rem 1rem 0.8rem 1.6rem;
-  border-left: 0.6rem solid #f1f2b3;
+.menu,
+.release-date,
+.footer {
+  font-weight: 300;
 }
 
-blockquote > :last-child { margin-bottom: 0 !important; }
+.release-date,
+.footer,
+.footnotes ol {
+  font-size: 0.9rem;
+}
 
-.footnotes hr {
-  border-top: 1px dotted #c0c0c0;
+.content pre code {
+  font-family: 'IBM Plex Mono', 'Lucida Console', 'Monaco', monospace;
+  font-size: 1rem;
+}
+
+strong {
+  font-weight: 600;
 }
 
 /* Typography > Post................................................. */
+
+.post h3 {
+  font-size: 1.4rem;
+  font-weight: normal;
+  margin-bottom: 0.4rem;
+}
 
 .post div.release-date {
   margin-bottom: 1rem;
@@ -122,33 +197,24 @@ blockquote > :last-child { margin-bottom: 0 !important; }
 
 .post div.text > p:first-child {
   width: 80%;
-  color: #007090;
   font-size: 1rem;
   font-style: italic;
 }
 
-.post h3 {
-  color: #007090;
-  font-size: 1.4rem;
-  font-weight: normal;
-}
-
 /* Typography > Log.................................................. */
+
+.log h3 {
+  font-size: 1.2rem;
+  font-weight: 600;
+  margin-bottom: 0.6rem;
+}
 
 .log p {
   margin-bottom: 0;
 }
 
-.log h3 {
-  color: #007090;
-  font-weight: 600;
-  font-size: 1.2rem;
-  border-bottom: 1px solid #00709040;
-}
-
 .log a,
 .log a:visited {
-  color: #002040;
   font-weight: normal;
 }
 
@@ -166,20 +232,8 @@ a {
   font-weight: 600;
 }
 
-a:link {
-  color: #007090;
-}
-
-a:visited {
-  color: purple;
-}
-
 a:focus, a:hover {
   text-decoration: underline;
-}
-
-a:active {
-  color: red;
 }
 
 a[href*="http"] {
@@ -208,7 +262,7 @@ a[href*="http"] {
 @media only screen and (max-width: 400px) {
   .content {
     padding: 6px;
-    font-size: 0.9rem;
+    font-size: 1rem;
   }
 }
 
