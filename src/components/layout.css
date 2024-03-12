@@ -20,14 +20,10 @@
   align-items: center;
 }
 
-.header, 
-.footer {
-  height: 40px;
-}
-
 /* Layout and background color....................................... */
 
 .content {
+  display: block; /* otherwise, the <pre> overflow-x doesn't work */
   padding: 16px;
   border-top-left-radius: 20px;
   border-bottom-right-radius: 20px;
@@ -37,6 +33,7 @@
   margin-top: 12px;
   margin-bottom: 12px;
   padding: 12px 16px;
+  overflow-x: auto;
 }
 
 .content blockquote {
@@ -46,6 +43,11 @@
 }
 
 blockquote > :last-child { margin-bottom: 0 !important; }
+
+.header, 
+.footer {
+  height: 40px;
+}
 
 /* Colors............................................................ */
 
@@ -89,12 +91,9 @@ a:link,
   border-top: 1px dotted #c0c0c0;
 }
 
-.content pre code {
-  color: #00f400;
-}
-
 .content pre {
   background-color: #323232;
+  color: #00f400;
 }
 
 a:visited {
