@@ -263,7 +263,11 @@ The word "empathy" was formed in english to translate the german. (Cf [Wikipedia
 
 > Anyone who could stop a product from going live is a stakeholder.
 > 
-> Arie van Bennekum. Agile Coach Academy, September 2020.
+> — Arie van Bennekum. Agile Coach Academy, September 2020.
+
+> Tout groupe d'individus ou tout individu qui peut affecter ou être affecté par la réalisation du produit.
+>
+> — Librement inspiré par moi de Freeman & Reed. 2024.
 
 ### Three amigos
 
