@@ -63,13 +63,18 @@ Hereafter, italics are used to mention the origin of the word.
 
 ### Company
 
-> The purpose of a company is to engage all its stakeholders in shared and sustained value creation.
->
-> [Davos Manifesto 2020](https://www.weforum.org/agenda/2019/12/davos-manifesto-2020-the-universal-purpose-of-a-company-in-the-fourth-industrial-revolution/)
-
 > The purpose of business is to create and keep a customer.
 >
-> Peter Drucker 
+> Peter Drucker. The Practice of Management. 1954.
+
+> The Social Responsibility of Business Is to Increase Its Profits.
+> 
+> Milton Friedman. New York Times. 1970. 
+
+> The purpose of a company is to engage all its stakeholders in shared and sustained value creation.
+>
+> [Davos Manifesto 2020](https://www.weforum.org/agenda/2019/12/davos-manifesto-2020-the-universal-purpose-of-a-company-in-the-fourth-industrial-revolution/). 2019.
+
 
 ### Continuous Delivery
 
@@ -173,6 +178,12 @@ The word "empathy" was formed in english to translate the german. (Cf [Wikipedia
 > *Managing* is dealing with uncertainty.
 > 
 > Martin, Robert C. [The Craftsman’s Oath](https://www.youtube.com/watch?v=17vTLSkXTOo&t=49m24s). SCLConf October 2018.
+
+### Performance
+
+> The ability of a device to achieve its intended purpose as stated by the manufacturer.
+>
+> [EU2017R0745](https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX:32017R0745)
 
 ### Prototype
 
